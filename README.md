@@ -1,14 +1,14 @@
-# Portfolio by Alvaro Perez
+# Portfolio by 4lPeReZ
 
 Proyecto creado con React
 
 ## Enlace
 
-Enlace al [Repositorio de Github](https://github.com/AlvaroPerezRey/dwec-PROY2-PerezRey_Alvaro).
+Enlace al [Repositorio de Github](https://github.com/4lPeReZ/4lPeReZ.github.io).
 
 ## Despliegue
 
-Enlace a la [pagina desplegada](https://alvaroperezrey.github.io/dwec-PROY2-PerezRey_Alvaro/).
+Enlace a la [pagina desplegada](https://4lPeReZ.github.io).
 
 ## Descripcion
 
